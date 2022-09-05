@@ -1,0 +1,3 @@
+# RemoveFromArray
+
+#Leetcode #27
